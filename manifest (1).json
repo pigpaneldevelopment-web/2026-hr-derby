@@ -1,0 +1,29 @@
+{
+  "name": "2026 Home Run Derby Pool",
+  "short_name": "Derby Pool",
+  "description": "Live standings for the 2026 ChuckPoo Home Run Derby fantasy pool — 45 teams, top 10 of 11 count.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0d0d12",
+  "theme_color": "#0d0d12",
+  "categories": ["sports", "entertainment"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
